@@ -9,4 +9,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-freitas&show_icons=true&theme=highcontrast)
