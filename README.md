@@ -19,7 +19,5 @@ In my free time, I immerse myself in the realms of nerd and geek culture, explor
 
 <hr/>
 
-<br/>
-
 ![Charles Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-freitas&show_icons=true&theme=highcontrast)
 
