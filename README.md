@@ -6,7 +6,7 @@ Beyond the digital realm, I wear multiple hats. I'm not just a programmer, but a
 
 In my free time, I immerse myself in the realms of nerd and geek culture, exploring fascinating topics that fuel my curiosity. A true aficionado of a galaxy far, far away, I proudly wear the badge of being a fan and historian of the Star Wars universe. Join me on this coding adventure, where bits and bytes meet lightsabers and droids! May the commits be with you! 🌌🤖🎲🖥️
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
