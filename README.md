@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Profile! 🚀
 
-Greetings, fellow coders and tech enthusiasts! I'm [Your Name], a seasoned professor in Information Systems and a coding aficionado since 1992. As a dedicated researcher in data analysis, I find joy in unraveling the intricacies of information to extract meaningful insights.
+Greetings, fellow coders and tech enthusiasts! I'm <b>Charles Freitas</b>, a seasoned professor in Information Systems and a coding aficionado since 1992. As a dedicated researcher in data analysis, I find joy in unraveling the intricacies of information to extract meaningful insights.
 
 Beyond the digital realm, I wear multiple hats. I'm not just a programmer, but also a proud player and master of the realms in tabletop RPGs. As the storyteller and the adventurer, I navigate both the code and the dice rolls with equal excitement.
 
